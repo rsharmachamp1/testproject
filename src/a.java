@@ -1,1 +1,3 @@
-public class a{}
+public class a{
+	public static void main (){}
+	}
